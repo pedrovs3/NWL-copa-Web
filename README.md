@@ -1,6 +1,6 @@
 # NWL-copa-Web
 
-<img src="./github/assets/website-image.png" width="1000px"></img>
+<img style="border-radius:12px; border:2px solid #a7a7a7" src="./github/assets/website-image.png" width="1500px"></img>
 
 ---
 
